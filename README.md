@@ -19,4 +19,4 @@ node
 ## 06_Chrome_ext
 Chrome浏览器扩展
 
-- 基本
+- 教程1: [Chrome扩展及应用开发](http://www.ituring.com.cn/minibook/950)
