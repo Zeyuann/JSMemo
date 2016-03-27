@@ -15,3 +15,8 @@ ES6的新语法
 
 ## 05_NodeJS
 node
+
+## 06_Chrome_ext
+Chrome浏览器扩展
+
+- 基本
