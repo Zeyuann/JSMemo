@@ -1,0 +1,17 @@
+// 2.5　扩展页面间的通信
+//chrome.runtime.sendMessage(extensionId发送消息的目标, message, options需要包含includeTlsChannelId, callback)
+// Sends a single message to event listeners within your extension/app or a different extension/app.
+{
+  "manifest_version": 2,
+  "name": "扩展内部通信Demo",
+  "version": "1.0",
+  "description": "扩展内部通信Demo",
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "scripts": [
+      "js/background.js"
+    ]
+  }
+}
