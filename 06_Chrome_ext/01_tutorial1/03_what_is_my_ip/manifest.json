@@ -1,3 +1,5 @@
+//学习跨域请求 和 xhr
+
 {
   "manifest_version": 2,
   "name": "查看我的IP",

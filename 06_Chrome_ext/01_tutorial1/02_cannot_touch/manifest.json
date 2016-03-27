@@ -1,3 +1,4 @@
+// 学习content_scripts
 {
   "manifest_version": 2,
   "name": "永远点不到的搜索按钮1",
